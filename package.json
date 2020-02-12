@@ -1,0 +1,27 @@
+{
+  "name": "task3",
+  "version": "1.0.0",
+  "description": "Home Work 2 Task 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlxLebedev/ESM.git"
+  },
+  "keywords": [
+    "task",
+    "3"
+  ],
+  "author": "Alexey Lebedev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlxLebedev/ESM/issues"
+  },
+  "homepage": "https://github.com/AlxLebedev/ESM#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
